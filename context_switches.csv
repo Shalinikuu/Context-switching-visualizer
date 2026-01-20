@@ -1,0 +1,5 @@
+Time,From Process,To Process
+0,IDLE,dwm.exe
+5,dwm.exe,System
+8,System,SynTPEnh.exe
+15,SynTPEnh.exe,explorer.exe
