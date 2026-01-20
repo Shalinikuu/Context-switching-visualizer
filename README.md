@@ -48,7 +48,7 @@ It provides a **C++ backend** for process simulation and a **Python GUI frontend
 git clone <your-repo-link>
 cd context-switching-simulator
 
-2. Compile & Run C++ Backend
+### 2. Compile & Run C++ Backend
 g++ -o scheduler scheduler.cpp
 ./scheduler
 
